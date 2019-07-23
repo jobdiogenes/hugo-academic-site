@@ -1,0 +1,5 @@
+# Basic options
+title: Job Diógenes R. Borges email: jobdiogenes@gmail.com description: Personal page github_username: jobdiogenes
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-architect
